@@ -1,0 +1,50 @@
+body {
+	padding: 0.5em 3em 0.5em 3em;
+	background-color: #f1f0de;
+	color: #000;
+	font-family: Georgia,serif
+}
+
+h1 {
+	color: #cccccc;
+	background-color: #3f4a4d;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	padding: 0.5em;
+}
+
+h2 {
+	color: #333333;
+	font-size: x-large;
+}
+
+h3 {
+	color: #333333;
+	font-size: large;
+}
+	
+
+a {
+	color: #114477;
+}
+
+a:visited {
+	color: 	#8B0000;
+}
+
+p.code {
+	font-family: monospace;
+	margin-left: 2em;
+	padding: 1em;
+	background-color: #000;
+}
+
+img {
+	border: none;
+}
+
+#footer {
+	padding-top: 3em;
+	text-align: center;
+	font-size: x-small;
+}
